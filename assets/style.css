@@ -1,0 +1,14 @@
+div.ac-popup-message {
+	min-width: 220px;
+	right: 0;top: 12%;
+	position: fixed;
+	z-index: 9999999;
+	border: 1px solid #699B08;
+	background-color: #fff;
+	border-radius: 5px;
+	padding: 10px;
+}
+div.ac-popup-message a.close {
+	position:absolute;
+	left:-5px;top:-5px;
+}
